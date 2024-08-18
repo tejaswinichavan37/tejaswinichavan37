@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tejaswini
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on AI and software engineering projects
+- 🌱 I’m currently learning AI/ML and looking to collaborate on AI and software engineering projects
 - 📫 Linkedin: https://www.linkedin.com/in/tejaswini-chavan/
 - 😄 Pronouns: She/her
 
